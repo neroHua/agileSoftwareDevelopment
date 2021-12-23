@@ -3,27 +3,35 @@ self learn agile software development principles patterns and practices
 
 # section 1
     agile development
+    敏捷开发
 
 ## chapter01
     agile practices
+    敏捷时间
 
 ## chapter02
     overview of extreme programming
+    极限编程概述
 
 ## chapter03
     plainning
+    计划
 
 ## chapter04
     testing
+    测试
 
 ## chapter05
     refactoring
+    重构
 
 ## chapter06
     a programming episode
+    一次编程实践
 
 # section2
     agile design
+    敏捷开发
 
 ## chapter07
     what is agile design
