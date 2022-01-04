@@ -1,4 +1,4 @@
-package part01.chapter01;
+package section01.chapter01;
 
 /**
  * manifesto For Agile Software Development

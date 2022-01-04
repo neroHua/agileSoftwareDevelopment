@@ -1,4 +1,4 @@
-package part01.chapter04;
+package section01.chapter04;
 
 /**
  * Testing
@@ -11,6 +11,8 @@ package part01.chapter04;
  * 先编写测试有助于代码的解耦和独立
  *
  * 测试有助于提示使用者使用代码
+ *
+ * 先设计测试，有助于代码不偏离测试
  *
  */
 public class Testing {

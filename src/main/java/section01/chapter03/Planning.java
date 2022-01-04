@@ -1,4 +1,4 @@
-package part01.chapter03;
+package section01.chapter03;
 
 /**
  * planning

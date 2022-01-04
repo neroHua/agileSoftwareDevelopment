@@ -1,4 +1,4 @@
-package part01.chapter05;
+package section01.chapter05;
 
 /**
  * refactor

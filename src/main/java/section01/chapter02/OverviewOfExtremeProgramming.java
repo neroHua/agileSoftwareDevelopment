@@ -1,4 +1,4 @@
-package part01.chapter02;
+package section01.chapter02;
 
 /**
  * overview of extreme programming
