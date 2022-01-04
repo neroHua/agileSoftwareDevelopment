@@ -1,4 +1,4 @@
-package chapter01;
+package part01.chapter01;
 
 /**
  * principles For Agile Software Development

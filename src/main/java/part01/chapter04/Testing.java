@@ -1,4 +1,4 @@
-package chapter04;
+package part01.chapter04;
 
 /**
  * Testing
