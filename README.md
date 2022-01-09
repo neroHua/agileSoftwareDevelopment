@@ -35,27 +35,34 @@ self learn agile software development principles patterns and practices
 
 ## chapter07
     what is agile design
+    什么是敏捷开发
 
 ## chapter08
     SRP: the signle responsibility principe
+    单一职责原则
 
 ## chapter09
     OCP: the open closed principe
+    开闭原则
 
 ## chapter10
     LSP: the liskov Substitution principe
+    里氏替换原则
 
 ## chapter11
     DIP: the dependency inversion principe
+    依赖倒置原则
 
 ## chapter12
     ISP: the interface segregation principe
+    接口隔离原则
 
 # section3
     the payroll case study
 
 ## chapter13
     commadn and active object
+    活对象模式
     
 ## chapter14
     template method & strategy: inheritance vs delegation
@@ -68,6 +75,7 @@ self learn agile software development principles patterns and practices
 
 ## chapter17
     null object
+    空对象模式
 
 ## chapter18
     the payroll case study: iteration one begins
@@ -95,6 +103,7 @@ self learn agile software development principles patterns and practices
 
 ## chapter24
     observer backing into a pattern
+    如何创建一个模式
 
 ## chapter25
     abstract server, adapter and bridge
@@ -116,3 +125,4 @@ self learn agile software development principles patterns and practices
 
 ## chapter30
     the ETS framework
+    如何创建一个框架
